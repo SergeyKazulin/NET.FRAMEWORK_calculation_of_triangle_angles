@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET.FRAMEWORK Углы прямоугольного треугольника", "NET.FRAMEWORK Углы прямоугольного треугольника\NET.FRAMEWORK Углы прямоугольного треугольника.csproj", "{B885309E-AD86-4691-BC7D-9013DBF53D7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B885309E-AD86-4691-BC7D-9013DBF53D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B885309E-AD86-4691-BC7D-9013DBF53D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B885309E-AD86-4691-BC7D-9013DBF53D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B885309E-AD86-4691-BC7D-9013DBF53D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {249B7483-D65B-4FA8-8493-7167B839E3E7}
+	EndGlobalSection
+EndGlobal
